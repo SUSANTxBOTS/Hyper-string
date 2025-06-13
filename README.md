@@ -1,20 +1,7 @@
-<h1 align="center"><b>❤️ BRANDED STRING SESSION BOT ❤️</b></h1>
+<h1 align="center"><b>❤️ NOBITA STRING SESSION BOT ❤️</b></h1>
 <p align="center">
-  <img src="https://te.legra.ph/file/90e709718e7dac641aaf7.jpg" alt="StringGen">
+  <img src="https://files.catbox.moe/7qyorb.jpg"
 </p>
-## ʀᴇᴘᴏ sᴛᴀᴛs
-<a href="https://github.com/WCGKING/StringGenBot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=WCGKING&repo=StringGenBot&theme=chartreuse-dark"></a>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-
-### 🥵 sᴛʀɪɴɢ ɢᴇɴᴇʀᴀᴛᴏʀ ʙᴏᴛ
-  <a href="https://github.com/WCGKING"><img alt="Website" src="https://img.shields.io/badge/𝗕𝗥𝗔𝗡𝗗𝗘𝗗 𓆩🇽𓆪 𝗞𝗜𝗡𝗚"></a>
- 
-[![𝗕𝗥𝗔𝗡𝗗𝗘𝗗 𓆩🇽𓆪 𝗞𝗜𝗡𝗚](https://img.shields.io/github.com/WCGKING/StringGenBot?style=social)](https://github.com/WCGKING/StringGenBot/stargazers)
-  [![Forks](https://img.shields.io/github/forks/WCGKING/StringGenBot?style=social)](https://github.com/WCGKING/StringGenBot/fork)
-
 ### 🛠️ ʟᴀɴɢᴜᴀɢᴇs ᴀɴᴅ ᴛᴏᴏʟs
 
   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -32,7 +19,7 @@
 
 ### 🚀 ᴅᴇᴘʟᴏʏ ᴛᴏ ʜᴇʀᴏᴋᴜ
   
-  <p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/WCGKING/StringGenBot"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+  <p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/abhaysinghchauhan001/NOBITAxSTRING"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 
 
@@ -56,8 +43,5 @@ Atleast Give A Star and Fork The Repo 🖤
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
-## 💖 ᴄʀᴇᴅɪᴛs
-- » [𝗕𝗥𝗔𝗡𝗗𝗘𝗗 𓆩🇽𓆪 𝗞𝗜𝗡𝗚](https://github.com/WCGKING)
-- » [Shivang](https://github.com/ShivangKakkar)
-- » [Dan Tès](https://github.com/delivrance) for [Pyrogram](https://github.com/pyrogram/pyrogram)
-- » [Lonami](https://github.com/LonamiWebs) for [Telethon](https://github.com/LonamiWebs/Telethon)
+## 💖 ᴄʀᴇᴀᴛᴏʀ
+- » [𝚴 𝐎 𝐁 𝚰 𝐓 𝚲](t.me/ll_NOBITA_DEFAULTERS_ll)
