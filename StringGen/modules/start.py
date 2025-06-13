@@ -20,6 +20,22 @@ async def start(bot: Client, msg: Message):
  ❃ 𝛅ᴜᴘᴘᴏʀᴛ - ᴘʏʀᴏɢʀᴀᴍ | ᴛᴇʟᴇᴛʜᴏɴ.
  ✮ ηᴏ ɪᴅ ʟᴏɢ ᴏᴜᴛ ɪssᴜᴇ & ғᴜʟʟ sᴇᴄᴜʀᴇ.
 •────────────────────────•
- ❖ 𝐏ᴏᴡᴇʀᴇᴅ ʙʏ  :-  [𝚴 𝐎 𝐁 𝚰 𝐓 𝚲](t.me/ll_NOBITA_DEFAULTERS_ll) 
+ ❖ 𝐏ᴏᴡᴇʀᴇᴅ ʙʏ  :-  [ꪜ 𝛊 ɭ ɭ ᧘ 𝛊 𝛈](t.me/iamakki001) 
 •────────────────────────•**""",
         
+        reply_markup = InlineKeyboardMarkup(
+    [
+        [
+            InlineKeyboardButton(text="˹ ɢᴇɴᴇʀᴀᴛᴇ sᴇssɪᴏɴ ˼", callback_data="GenByBots")
+        ],
+        [
+            InlineKeyboardButton("˹ ᴏᴡɴᴇʀ ˼", user_id=OWNER_ID),
+            InlineKeyboardButton("˹ sᴜᴘᴘᴏʀᴛ ˼", url="https://t.me/oldskoolgc")
+        ],
+        [
+            InlineKeyboardButton("˹ ʙᴀsɪᴄ ɢᴜɪᴅᴇs ˼", callback_data="help")
+        ]
+    ]
+        )
+    )
+    
