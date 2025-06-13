@@ -30,7 +30,7 @@ async def start(bot: Client, msg: Message):
         ],
         [
             InlineKeyboardButton("˹ ᴏᴡɴᴇʀ ˼", user_id=OWNER_ID),
-            InlineKeyboardButton("˹ sᴜᴘᴘᴏʀᴛ ˼", url="https://t.me/oldskoolgc")
+            InlineKeyboardButton("˹ sᴜᴘᴘᴏʀᴛ ˼", url="https://t.me/+wPjAlUcObehiZDM1")
         ],
         [
             InlineKeyboardButton("˹ ʙᴀsɪᴄ ɢᴜɪᴅᴇs ˼", callback_data="help")
