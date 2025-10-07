@@ -5,11 +5,11 @@ from config import SUPPORT_CHAT
 
 keyboard = InlineKeyboardMarkup(
     [
-        [InlineKeyboardButton(text="ɢᴇɴᴇʀᴀᴛᴇ sᴇssɪᴏɴ", callback_data="gensession")],
+        [InlineKeyboardButton(text=" ⌯ ɢᴇɴᴇʀᴀᴛᴇ sᴇssɪᴏɴ  ⌯ ", callback_data="gensession")],
         [
-            InlineKeyboardButton(text="sᴜᴘᴘᴏʀᴛ", url=SUPPORT_CHAT),
+            InlineKeyboardButton(text="  ⌯ sᴜᴘᴘᴏʀᴛ  ⌯ ", url=SUPPORT_CHAT),
             InlineKeyboardButton(
-                text="ᴜᴘᴅᴀᴛᴇ", url="https://t.me/ThronexCodex"
+                text="⌯ ᴏᴡɴᴇʀ ⌯", url="https://t.me/xFlexyy"
             ),
         ],
     ]
