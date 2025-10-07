@@ -11,31 +11,31 @@
         "pyrogram",
         "telethon"
     ],
-    "repository": "https://github.com/abhaysinghchauhan001/NOBITAxSTRING",
+    "repository": "https://github.com/SUSANTxBOTS/HYPERxSTRING",
     "env": {
       "API_ID": {
         "description": "Get this value from https://my.telegram.org",
-        "value": "",
+        "value": "21134445",
         "required": true
       },
       "API_HASH": {
         "description": "Get this value from https://my.telegram.org",
-        "value": "",
+        "value": "231c18ea7273824491d6bf05425ab74e",
         "required": true
       },
       "BOT_TOKEN": {
         "description": "A Bot's token from Botfather",
-        "value": "",
+        "value": "8018252288:AAHXQCgRRa_QwvEhJN01WKkEFwjfUavKuNA",
         "required": true
       },
       "OWNER_ID": {
         "description": "Fill your user id here. (Must be integer)",
-        "value": "",
+        "value": "8156708830",
         "required": true
       },
       "MONGO_DB_URI": {
         "description": "Get this value from cloud.mongodb.com",
-        "value": "",
+        "value": "mongodb+srv://susantpc1232_db_user:MsGk2PTlLnzhh2VQ@cluster0.uqxwqld.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0",
         "required": true
       }
     },
