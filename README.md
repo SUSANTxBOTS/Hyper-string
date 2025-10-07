@@ -1,6 +1,6 @@
-<h1 align="center"><b>❤️ NOBITA STRING SESSION BOT ❤️</b></h1>
+<h1 align="center"><b>❤️ FLEXYY STRING SESSION BOT ❤️</b></h1>
 <p align="center">
-  <img src="https://files.catbox.moe/7qyorb.jpg"
+  <img src="https://files.catbox.moe/6ofgj0.jpg"
 </p>
 ### 🛠️ ʟᴀɴɢᴜᴀɢᴇs ᴀɴᴅ ᴛᴏᴏʟs
 
@@ -25,7 +25,7 @@
 
 ### 🙄 ᴅᴇᴍᴏ/ᴛᴇsᴛ ʙᴏᴛ
   
-  [sᴛʀɪɴɢ ʙᴏᴛ 🍑](https://telegram.me/BRANDEDSTRINGSESSION_BOT)
+  [sᴛʀɪɴɢ ʙᴏᴛ 🍑](https://telegram.me/StringGenXRoBot)
 
 ```
 Atleast Give A Star and Fork The Repo 🖤
@@ -44,4 +44,4 @@ Atleast Give A Star and Fork The Repo 🖤
 
 
 ## 💖 ᴄʀᴇᴀᴛᴏʀ
-- » [𝚴 𝐎 𝐁 𝚰 𝐓 𝚲](t.me/ll_NOBITA_DEFAULTERS_ll)
+- » [ㅤ- ᴛɴˣㅤꑭㅤ𝐅ʟᴇxʏʏ](t.me/xFlexyy)
