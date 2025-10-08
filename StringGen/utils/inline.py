@@ -9,7 +9,7 @@ keyboard = InlineKeyboardMarkup(
         [
             InlineKeyboardButton(text="  ⌯ sᴜᴘᴘᴏʀᴛ  ⌯ ", url=SUPPORT_CHAT),
             InlineKeyboardButton(
-                text="⌯ ᴏᴡɴᴇʀ ⌯", url="https://t.me/xFlexyy"
+                text="⌯ ᴏᴡɴᴇʀ ⌯", url="https://t.me/xAkairo"
             ),
         ],
     ]
@@ -28,4 +28,5 @@ gen_key = InlineKeyboardMarkup(
 retry_key = InlineKeyboardMarkup(
     [[InlineKeyboardButton(text="ᴛʀʏ ᴀɢᴀɪɴ", callback_data="gensession")]]
 )
+
 
