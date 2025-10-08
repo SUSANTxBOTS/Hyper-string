@@ -25,7 +25,7 @@
       },
       "BOT_TOKEN": {
         "description": "A Bot's token from Botfather",
-        "value": "",
+        "value": "8018252288:AAE36WZAP1ajjheZRtYk2zU4OeMoxXonhf4",
         "required": true
       },
       "OWNER_ID": {
